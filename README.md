@@ -1,6 +1,5 @@
 # LearnMate AI – Agentic AI for Personalized Course Pathways
 
-This project solves the SB4Academia Problem Statement 12 using IBM Watsonx Agent Lab.
 
 ## Features
 - Accepts student skills, interests, learning style, and goals
