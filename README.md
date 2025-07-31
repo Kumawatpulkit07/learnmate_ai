@@ -1,9 +1,14 @@
-# LearnMate AI 🎓🤖
+# LearnMate AI – Agentic AI for Personalized Course Pathways
 
-**An AI-powered learning coach that guides students in building personalized course pathways.**  
-Developed using IBM Watsonx Agent Lab as a solution to SB4Academia Problem Statement 12.
+This project solves the SB4Academia Problem Statement 12 using IBM Watsonx Agent Lab.
 
-🔹 Accepts student profile: skills, interests, learning style, and goals  
-🔹 Recommends courses and skills to build  
-🔹 Built using prompt templates and IBM Granite models  
-🔹 No-code agent, easily deployable and testable  
+## Features
+- Accepts student skills, interests, learning style, and goals
+- Recommends personalized course roadmap and future skills
+- Built using IBM Granite model via prompt-based Agent
+- No-code UI tested and deployed inside IBM Cloud
+
+## Files Included
+- `prompt-template.txt`: AI prompt template
+- `input-schema.json`: Tool input schema
+- `sample-input.json`: Sample user input

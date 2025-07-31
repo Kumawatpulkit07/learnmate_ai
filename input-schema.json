@@ -1,0 +1,30 @@
+{
+  "name": {
+    "type": "string"
+  },
+  "current_skills": {
+    "type": "array",
+    "items": {
+      "type": "string"
+    }
+  },
+  "interests": {
+    "type": "array",
+    "items": {
+      "type": "string"
+    }
+  },
+  "preferred_learning_style": {
+    "type": "string",
+    "enum": [
+      "Video-based",
+      "Text-based",
+      "Project-based",
+      "Hands-on",
+      "Visual"
+    ]
+  },
+  "goal": {
+    "type": "string"
+  }
+}
