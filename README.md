@@ -4,7 +4,7 @@
 ## Features
 - Accepts student skills, interests, learning style, and goals
 - Recommends personalized course roadmap and future skills
-- Built using IBM Granite model via prompt-based Agent
+- Built using IBM Mistral model via prompt-based Agent
 - No-code UI tested and deployed inside IBM Cloud
 
 ## Files Included
